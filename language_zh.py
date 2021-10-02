@@ -1,6 +1,7 @@
 # language.py - a language pack for idb
 
 class LanguageInfomations:
+    LanguagePackName='简体中文语言包'
     LanguageName_English = "Simplified Chinese"
     LanguageName_Local = '简体中文'
     LanguageLabel = 'zh_cn'

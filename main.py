@@ -7,4 +7,4 @@ while True:
     print(language.WelcomeText)
     print(language.SelectPlug)
     print('='*20)
-    adb
+    
